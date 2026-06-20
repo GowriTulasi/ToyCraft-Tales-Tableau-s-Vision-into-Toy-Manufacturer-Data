@@ -20,16 +20,16 @@ meet customer expectations.
 ## 🎯Problem Statement:
 Toy manufacturers face challenges in understanding changing market trends, consumer preferences, and regional demand patterns due to the complexity and volume of industry data.
 Scenario-Based Problems:
- 1.Seasonal Market Trend Analysis: Determine how toy sales vary across seasons and holidays to optimize production and marketing efforts.
- 2.Consumer Preference Analysis: Identify how toy preferences differ by age, gender, and location to better target customer segments.
- 3.Regional Product Performance Analysis: Compare toy category performance across regions to improve distribution and inventory strategies.
+ ### 1.Seasonal Market Trend Analysis: Determine how toy sales vary across seasons and holidays to optimize production and marketing efforts.
+ ### 2.Consumer Preference Analysis: Identify how toy preferences differ by age, gender, and location to better target customer segments.
+ ### 3.Regional Product Performance Analysis: Compare toy category performance across regions to improve distribution and inventory strategies.
  
  ## ✅ Project Objectives
- -1.Analyze Market Trends
- -2.Study Seasonal Demand Patterns
- -3.Understand Consumer Preferences
- -4.Perform Demographic Analysis
- -5.Develop Interactive Tableau Dashboards
+ 1.Analyze Market Trends ---
+ -2.Study Seasonal Demand Patterns ---
+ -3.Understand Consumer Preferences ---
+ -4.Perform Demographic Analysis ---
+ -5.Develop Interactive Tableau Dashboards ---
  
  ## 🗂️ Dataset Description
 Source: The Week 39 – US Toy Manufacturers (2005–2016) Dataset, derived from the U.S. Census Bureau's County Business Patterns report.
@@ -41,25 +41,37 @@ State – U.S. state where toy manufacturers are located
 Year – Year of data recording
 Number of Manufacturers – Total number of toy manufacturers in the state for that year
 
-Purpose: The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016, 
+### Purpose: The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016, 
           enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
 
 ## 🛠️ Tools & Technologies Used
-🔹 Data Storage & Processing
+-🔹 Data Storage & Processing
 MySQL Database
 SQL Queries
 MySQL Workbench
-🔹 Data Visualization
+-🔹 Data Visualization
 Tableau Desktop
 Tableau Public
-🔹 Web Integration
+-🔹 Web Integration
  Flask (Python Framework)
  HTML
   CSS
 JavaScript
-🔹 Development & Deployment
+-🔹 Development & Deployment
 Git & GitHub
 Render (Cloud Deployment)
+
+## 📈 Data Visualizations Created
+Toy Manufacturers in U.S. States by Index---
+Toy Manufacturers in U.S. States by Year---
+Analysis of Toy Manufacturers---
+Top 10 States by Number of Toy Manufacturers---
+Bottom 10 States by Number of Toy Manufacturers---
+State-wise Distribution of Toy Manufacturers---
+Year-wise Growth of Toy Manufacturers (2005–2016)---
+Total Number of Toy Manufacturers---
+Comparison of Toy Manufacturers Across States---
+Trend Analysis of Toy Manufacturers in the United States---
 
 ## 🧩 System Architecture
 US Toy Manufacturers Dataset (2005–2016)
@@ -89,10 +101,10 @@ Visualizations published on Tableau Public for online access.
 A Flask web application embeds Tableau dashboards, providing users with an interactive platform to view insights and analysis.
 
 ## 📊 Dashboards & Story
-Multiple interactive dashboards combining related visualizations
-Filters for region, state, sector, and time
-Tableau Story with multiple scenes explaining insights step-by-step
-Published on Tableau Public
+Multiple interactive dashboards combining related visualizations---
+Filters for region, state, sector, and time---
+Tableau Story with multiple scenes explaining insights step-by-step---
+Published on Tableau Public---
 Embedded into a Flask-based web interface
 
 ## 🌐 Web Application Features
@@ -107,7 +119,7 @@ Multiple calculated fields in Tableau
 Extensive use of filters and parameters
 Optimized dashboard responsiveness
 
-🏁 Conclusion
+## 🏁 Conclusion
 Toy Craft Tales demonstrates how data visualization and analytics can transform toy manufacturing data into meaningful business insights.
 By integrating MySQL, SQL, Tableau, and Flask, the project provides an interactive platform for analyzing manufacturer trends across U.S. states from 2005 to 2016. 
 The dashboards help uncover regional patterns and industry growth, enabling data-driven decision-making. 
