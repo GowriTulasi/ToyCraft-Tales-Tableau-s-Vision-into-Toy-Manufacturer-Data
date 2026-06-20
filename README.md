@@ -28,15 +28,15 @@ Scenario-Based Problems:
  Compare toy category performance across regions to improve distribution and inventory strategies.
  
  ## ✅ Project Objectives
- -1.Analyze Market Trends 
+ 1.Analyze Market Trends 
  
- -2.Study Seasonal Demand Patterns
+ 2.Study Seasonal Demand Patterns
  
- -3.Understand Consumer Preferences
+ 3.Understand Consumer Preferences
  
- -4.Perform Demographic Analysis
+ 4.Perform Demographic Analysis
  
- -5.Develop Interactive Tableau Dashboards 
+ 5.Develop Interactive Tableau Dashboards 
  
  ## 🗂️ Dataset Description
 Source: The Week 39 – US Toy Manufacturers (2005–2016) Dataset, derived from the U.S. Census Bureau's County Business Patterns report.
@@ -53,36 +53,53 @@ Number of Manufacturers – Total number of toy manufacturers in the state for t
           enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
 
 ## 🛠️ Tools & Technologies Used
--🔹 Data Storage & Processing
-    MySQL Database
-    SQL Queries
-    MySQL Workbench
+-🔹 Data Storage & Processing---
 
--🔹 Data Visualization
-    Tableau Desktop
-    Tableau Public
+    MySQL Database---
+    
+    SQL Queries---
+    
+    MySQL Workbench---
 
--🔹 Web Integration
-     Flask (Python Framework)
-     HTML
-     CSS
-    JavaScript
+-🔹 Data Visualization---
 
--🔹 Development & Deployment
-     Git & GitHub
+    Tableau Desktop---
+    
+    Tableau Public---
+
+-🔹 Web Integration---
+
+     Flask (Python Framework)---
+     
+     HTML, CSS,JavaScript---
+     
+-🔹 Development & Deployment---
+
+     Git & GitHub ---
+     
     Render (Cloud Deployment)
 
 ## 📈 Data Visualizations Created
 Toy Manufacturers in U.S. States by Index---
+
 Toy Manufacturers in U.S. States by Year---
+
 Analysis of Toy Manufacturers---
+
 Top 10 States by Number of Toy Manufacturers---
+
 Bottom 10 States by Number of Toy Manufacturers---
+
 State-wise Distribution of Toy Manufacturers---
+
 Year-wise Growth of Toy Manufacturers (2005–2016)---
+
 Total Number of Toy Manufacturers---
+
 Comparison of Toy Manufacturers Across States---
+
 Trend Analysis of Toy Manufacturers in the United States---
+
 
 ## 🧩 System Architecture
 US Toy Manufacturers Dataset (2005–2016)
