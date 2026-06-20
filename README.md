@@ -53,52 +53,52 @@ Number of Manufacturers – Total number of toy manufacturers in the state for t
           enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
 
 ## 🛠️ Tools & Technologies Used
--🔹 Data Storage & Processing---
+🔹 Data Storage & Processing
 
-    MySQL Database---
+    MySQL Database
     
-    SQL Queries---
+    SQL Queries
     
-    MySQL Workbench---
+    MySQL Workbench
 
--🔹 Data Visualization---
+🔹 Data Visualization
 
-    Tableau Desktop---
+    Tableau Desktop
     
-    Tableau Public---
+    Tableau Public
 
--🔹 Web Integration---
+🔹 Web Integration
 
-     Flask (Python Framework)---
+     Flask (Python Framework)
      
-     HTML, CSS,JavaScript---
+     HTML, CSS,JavaScript
      
--🔹 Development & Deployment---
+-🔹 Development & Deployment
 
-     Git & GitHub ---
+     Git & GitHub 
      
     Render (Cloud Deployment)
 
 ## 📈 Data Visualizations Created
-Toy Manufacturers in U.S. States by Index---
+Toy Manufacturers in U.S. States by Index
 
-Toy Manufacturers in U.S. States by Year---
+Toy Manufacturers in U.S. States by Year
 
-Analysis of Toy Manufacturers---
+Analysis of Toy Manufacturers
 
-Top 10 States by Number of Toy Manufacturers---
+Top 10 States by Number of Toy Manufacturers
 
-Bottom 10 States by Number of Toy Manufacturers---
+Bottom 10 States by Number of Toy Manufacturers
 
-State-wise Distribution of Toy Manufacturers---
+State-wise Distribution of Toy Manufacturers
 
-Year-wise Growth of Toy Manufacturers (2005–2016)---
+Year-wise Growth of Toy Manufacturers (2005–2016)
 
-Total Number of Toy Manufacturers---
+Total Number of Toy Manufacturers
 
-Comparison of Toy Manufacturers Across States---
+Comparison of Toy Manufacturers Across States
 
-Trend Analysis of Toy Manufacturers in the United States---
+Trend Analysis of Toy Manufacturers in the United States
 
 
 ## 🧩 System Architecture
@@ -129,23 +129,26 @@ Visualizations published on Tableau Public for online access.
 A Flask web application embeds Tableau dashboards, providing users with an interactive platform to view insights and analysis.
 
 ## 📊 Dashboards & Story
-Multiple interactive dashboards combining related visualizations---
-Filters for region, state, sector, and time---
-Tableau Story with multiple scenes explaining insights step-by-step---
-Published on Tableau Public---
-Embedded into a Flask-based web interface
+* Multiple interactive dashboards combining related visualizations
+* Filters for region, state, sector, and time
+* Tableau Story with multiple scenes explaining insights step-by-step
+* Published on Tableau Public
+* Embedded into a Flask-based web interface
 
 ## 🌐 Web Application Features
-Flask-based responsive web interface
-Embedded Tableau dashboards and story
-User-friendly navigation
-Centralized access to analytics and insights
+* Flask-based responsive web interface
+  
+* Embedded Tableau dashboards and story
+  
+* User-friendly navigation
+  
+* Centralized access to analytics and insights
 
 ## ⚙️ Performance & Analysis Metrics
-Large-scale time-series data rendered via MySQL
-Multiple calculated fields in Tableau
-Extensive use of filters and parameters
-Optimized dashboard responsiveness
+* Large-scale time-series data rendered via MySQL
+* Multiple calculated fields in Tableau
+* Extensive use of filters and parameters
+* Optimized dashboard responsiveness
 
 ## 🏁 Conclusion
 Toy Craft Tales demonstrates how data visualization and analytics can transform toy manufacturing data into meaningful business insights.
