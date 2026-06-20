@@ -54,20 +54,23 @@ Number of Manufacturers – Total number of toy manufacturers in the state for t
 
 ## 🛠️ Tools & Technologies Used
 -🔹 Data Storage & Processing
-MySQL Database
-SQL Queries
-MySQL Workbench
+    MySQL Database
+    SQL Queries
+    MySQL Workbench
+
 -🔹 Data Visualization
-Tableau Desktop
-Tableau Public
+    Tableau Desktop
+    Tableau Public
+
 -🔹 Web Integration
- Flask (Python Framework)
- HTML
-  CSS
-JavaScript
+     Flask (Python Framework)
+     HTML
+     CSS
+    JavaScript
+
 -🔹 Development & Deployment
-Git & GitHub
-Render (Cloud Deployment)
+     Git & GitHub
+    Render (Cloud Deployment)
 
 ## 📈 Data Visualizations Created
 Toy Manufacturers in U.S. States by Index---
