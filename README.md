@@ -40,44 +40,46 @@ Scenario-Based Problems:
  
  ## 🗂️ Dataset Description
 Source: The Week 39 – US Toy Manufacturers (2005–2016) Dataset, derived from the U.S. Census Bureau's County Business Patterns report.
+
 Duration: 2005 – 2016 (12 Years)
+
 Format: CSV
 
 ### Dataset Fields:
-State – U.S. state where toy manufacturers are located
-Year – Year of data recording
-Number of Manufacturers – Total number of toy manufacturers in the state for that year
+* State – U.S. state where toy manufacturers are located
+* Year – Year of data recording
+* Number of Manufacturers – Total number of toy manufacturers in the state for that year
 
 ### Purpose: 
-           The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016, 
-          enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
+
+The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016,  enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
 
 ## 🛠️ Tools & Technologies Used
-🔹 Data Storage & Processing
 
-    MySQL Database
+### Data Storage & Processing
+MySQL Database
     
-    SQL Queries
+SQL Queries
     
-    MySQL Workbench
+MySQL Workbench
 
-🔹 Data Visualization
+### Data Visualization
 
-    Tableau Desktop
+Tableau Desktop
     
-    Tableau Public
+Tableau Public
 
-🔹 Web Integration
+ ### Web Integration
 
-     Flask (Python Framework)
+ Flask (Python Framework)
      
-     HTML, CSS,JavaScript
+ HTML, CSS,JavaScript
      
--🔹 Development & Deployment
+### Development & Deployment
 
-     Git & GitHub 
+Git & GitHub 
      
-    Render (Cloud Deployment)
+Render (Cloud Deployment)
 
 ## 📈 Data Visualizations Created
 Toy Manufacturers in U.S. States by Index
