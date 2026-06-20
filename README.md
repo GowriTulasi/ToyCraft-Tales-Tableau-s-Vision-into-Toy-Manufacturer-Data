@@ -40,7 +40,8 @@ State – U.S. state where toy manufacturers are located
 Year – Year of data recording
 Number of Manufacturers – Total number of toy manufacturers in the state for that year
 
-Purpose: The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016, enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
+Purpose: The dataset provides information about the distribution and growth of toy manufacturers across U.S. states from 2005 to 2016, 
+          enabling the analysis of industry trends, regional patterns, and changes in the toy manufacturing sector over time.
 
 🛠️ Tools & Technologies Used
 🔹 Data Storage & Processing
@@ -59,4 +60,53 @@ JavaScript
 Git & GitHub
 Render (Cloud Deployment)
 🧩 System Architecture
-CSV Dataset ↓ MySQL Database ↓ SQL Queries ↓ Tableau Desktop ↓ Dashboards & Story ↓ Tableau Public ↓ Flask Web Application
+US Toy Manufacturers Dataset (2005–2016)
+↓
+CSV Dataset
+↓
+MySQL Database
+↓
+SQL Queries for Data Analysis
+↓
+Tableau Desktop
+↓
+Interactive Dashboards & Stories
+↓
+Tableau Public
+↓
+Flask Web Application
+
+Architecture Explanation:
+
+Dataset collected from The Week 39 – US Toy Manufacturers (2005–2016) dataset based on the U.S. Census Bureau's County Business Patterns report.
+Data imported and stored in a MySQL database for efficient management.
+SQL queries used to analyze manufacturer trends, state-wise distribution, and yearly growth patterns.
+Tableau Desktop connected to MySQL for data visualization.
+Interactive dashboards and stories created to explore toy manufacturing trends across U.S. states.
+Visualizations published on Tableau Public for online access.
+A Flask web application embeds Tableau dashboards, providing users with an interactive platform to view insights and analysis.
+
+📊 Dashboards & Story
+Multiple interactive dashboards combining related visualizations
+Filters for region, state, sector, and time
+Tableau Story with multiple scenes explaining insights step-by-step
+Published on Tableau Public
+Embedded into a Flask-based web interface
+
+🌐 Web Application Features
+Flask-based responsive web interface
+Embedded Tableau dashboards and story
+User-friendly navigation
+Centralized access to analytics and insights
+
+⚙️ Performance & Analysis Metrics
+Large-scale time-series data rendered via MySQL
+Multiple calculated fields in Tableau
+Extensive use of filters and parameters
+Optimized dashboard responsiveness
+
+🏁 Conclusion
+Toy Craft Tales demonstrates how data visualization and analytics can transform toy manufacturing data into meaningful business insights.
+By integrating MySQL, SQL, Tableau, and Flask, the project provides an interactive platform for analyzing manufacturer trends across U.S. states from 2005 to 2016. 
+The dashboards help uncover regional patterns and industry growth, enabling data-driven decision-making. 
+Overall, the project showcases the power of modern analytics tools in understanding and exploring the toy manufacturing sector.
